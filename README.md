@@ -1,4 +1,4 @@
-## Sidcup Family Golf (HomePage Clone)
+## Ammad - Sidcup Family Golf (HomePage Clone)
 
 This project is a carefully recreated version of the Sidcup Family Golf website, built using HTML, CSS, JavaScript, and GSAP for smooth animations. **Please note that the responsive version of the site is currently under construction.**
 
