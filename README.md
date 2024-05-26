@@ -6,7 +6,7 @@ You can check out the original website here: <a href="https://sidcupfamilygolf.c
 
 ## 🚀 Getting Started
 
-To get started with the Todo List app, follow these steps:
+To get started with the Sidcup Family Golf (HomePage Clone), follow these steps:
 
 1. **Clone the repository:**
 
@@ -36,3 +36,14 @@ To get started with the Todo List app, follow these steps:
      ```sh
      xdg-open index.html
      ```
+
+## 🛠️ Technologies Used
+
+- **HTML:** For the structure of the website.
+- **CSS:** For the styling of the website.
+- **JavaScript:** For the functionality of the website.
+- **GSAP:** For Smooth Animations of the website.
+
+## 🤝 Contributing
+
+Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
