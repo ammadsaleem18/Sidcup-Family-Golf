@@ -1,4 +1,4 @@
-## ![Golf](https://img.icons8.com/color/48/000000/golf.png) Sidcup Family Golf (HomePage Clone) ![Family](https://img.icons8.com/color/48/000000/family.png)
+## ![Golf](./img/favicon.png) Sidcup Family Golf (HomePage Clone)
 
 This project is a carefully recreated version of the Sidcup Family Golf website, built using HTML, CSS, JavaScript, and GSAP for smooth animations.
 
