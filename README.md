@@ -18,7 +18,7 @@ To get started with the Todo List app, follow these steps:
 2. **Navigate to the project directory:**
 
    ```sh
-   cd Todo-List
+   cd Sidcup-Family-Golf
 
    ```
 
