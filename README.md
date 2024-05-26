@@ -11,7 +11,7 @@ To get started with the Todo List app, follow these steps:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/ammadsaleem18/Todo-List.git
+   git clone https://github.com/ammadsaleem18/Sidcup-Family-Golf.git
 
    ```
 
